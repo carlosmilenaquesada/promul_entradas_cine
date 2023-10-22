@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">promul_entradas_cine</string>
+    <string-array name="peliculas">
+        <item>pelicula1</item>
+        <item>pelicula2</item>
+        <item>pelicula3</item>
+    </string-array>
+</resources>

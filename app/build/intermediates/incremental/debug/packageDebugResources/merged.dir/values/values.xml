@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="peliculas">
+        <item>pelicula1</item>
+        <item>pelicula2</item>
+        <item>pelicula3</item>
+    </string-array>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">promul_entradas_cine</string>
+    <style name="Base.Theme.FormularioCine" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        
+        
+    </style>
+    <style name="Theme.FormularioCine" parent="Base.Theme.FormularioCine"/>
+</resources>

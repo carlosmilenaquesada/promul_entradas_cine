@@ -1,0 +1,36 @@
+R_DEF: Internal format may change without notice
+local
+array peliculas
+color black
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable persona
+id bt_ir_pago
+id edt_cantidad
+id edt_dia
+id edt_hora
+id edt_nombre
+id img_persona
+id rb_adulto
+id rb_infantil
+id rb_jubilado
+id rg_tipo
+id sp_pelicula
+id textView
+id txt_item1
+id txt_tipo
+id txt_titulo_pago
+id txt_titulo_tipo
+layout activity_main
+layout activity_ventana2
+layout item_lista_peliculas
+layout item_lista_peliculas2
+mipmap ic_launcher
+mipmap ic_launcher_round
+mipmap icono
+string app_name
+style Base.Theme.FormularioCine
+style Theme.FormularioCine
+xml backup_rules
+xml data_extraction_rules
