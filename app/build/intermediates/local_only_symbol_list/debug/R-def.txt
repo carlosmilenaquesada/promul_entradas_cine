@@ -32,12 +32,15 @@ id txt_titulo_total_pagarxtView6
 id txt_total_pagar
 layout activity_main
 layout activity_ventana2
+layout fragment_date_picker
+layout fragment_time_picker
 layout item_lista_peliculas
 layout item_lista_peliculas2
 mipmap ic_launcher
 mipmap ic_launcher_round
 mipmap icono
 string app_name
+string hello_blank_fragment
 style Base.Theme.FormularioCine
 style Theme.FormularioCine
 xml backup_rules

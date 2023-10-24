@@ -22,6 +22,8 @@ public class MainActivity extends AppCompatActivity implements AdapterView.OnIte
     String tipo_usuario;
     String pelicula;
 
+    //PARA EL CALENDARIO SELECTOR DE FECHA Y HORA, VAMOS A USAR UNA CLASE NUEVA QUE ES TIPO FRAGMENT
+    //PARA CREAR EL FRAGMENT, VAMOS AL BOTÓN DERECHO CARPETA DEL PROYECTO -> NEW -> FRAGMENT -> FRAGMENT BLANK.
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);

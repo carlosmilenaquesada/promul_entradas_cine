@@ -7,27 +7,32 @@
     tools:context=".Ventana2Activity">
 
     <EditText
+
         android:id="@+id/edt_dia"
-        android:layout_width="wrap_content"
+        android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:layout_marginTop="30dp"
         android:ems="10"
+        android:focusableInTouchMode="false"
         android:hint="Elige el día"
         android:inputType="text"
         android:minHeight="48dp"
+        android:onClick="mostrar_calendario"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
     <EditText
         android:id="@+id/edt_hora"
-        android:layout_width="wrap_content"
+        android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:layout_marginTop="30dp"
         android:ems="10"
+        android:focusableInTouchMode="false"
         android:hint="Elige la hora"
         android:inputType="text"
         android:minHeight="48dp"
+        android:onClick="mostar_hora"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/edt_dia" />
