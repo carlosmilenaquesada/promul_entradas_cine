@@ -7,6 +7,8 @@ drawable ic_launcher_background
 drawable ic_launcher_foreground
 drawable persona
 id bt_ir_pago
+id bt_pagar_total
+id ck_condiciones
 id edt_cantidad
 id edt_dia
 id edt_hora
@@ -18,10 +20,16 @@ id rb_jubilado
 id rg_tipo
 id sp_pelicula
 id textView
+id txt_cantidad
 id txt_item1
+id txt_precio_entrada
 id txt_tipo
+id txt_titulo_cantidad
 id txt_titulo_pago
+id txt_titulo_precio_entrada
 id txt_titulo_tipo
+id txt_titulo_total_pagarxtView6
+id txt_total_pagar
 layout activity_main
 layout activity_ventana2
 layout item_lista_peliculas

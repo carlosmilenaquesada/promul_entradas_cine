@@ -25,10 +25,10 @@ com.example.promul_entradas_cine.app-activity-1.8.0-23 C:\Users\Administrador\.g
 com.example.promul_entradas_cine.app-appcompat-1.6.1-24 C:\Users\Administrador\.gradle\caches\transforms-3\af575453595166fed38ef613cf3573b3\transformed\appcompat-1.6.1\res
 com.example.promul_entradas_cine.app-drawerlayout-1.1.1-25 C:\Users\Administrador\.gradle\caches\transforms-3\e2d2d3c4dd62635dbea352ab171561e5\transformed\drawerlayout-1.1.1\res
 com.example.promul_entradas_cine.app-transition-1.2.0-26 C:\Users\Administrador\.gradle\caches\transforms-3\e44573450bfeaacfbe89d93e4952b042\transformed\transition-1.2.0\res
-com.example.promul_entradas_cine.app-pngs-27 C:\Users\Administrador\Desktop\PM\FormularioCine\app\build\generated\res\pngs\debug
-com.example.promul_entradas_cine.app-resValues-28 C:\Users\Administrador\Desktop\PM\FormularioCine\app\build\generated\res\resValues\debug
-com.example.promul_entradas_cine.app-packageDebugResources-29 C:\Users\Administrador\Desktop\PM\FormularioCine\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
-com.example.promul_entradas_cine.app-packageDebugResources-30 C:\Users\Administrador\Desktop\PM\FormularioCine\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
-com.example.promul_entradas_cine.app-merged_res-31 C:\Users\Administrador\Desktop\PM\FormularioCine\app\build\intermediates\merged_res\debug
-com.example.promul_entradas_cine.app-debug-32 C:\Users\Administrador\Desktop\PM\FormularioCine\app\src\debug\res
-com.example.promul_entradas_cine.app-main-33 C:\Users\Administrador\Desktop\PM\FormularioCine\app\src\main\res
+com.example.promul_entradas_cine.app-pngs-27 C:\Users\Administrador\Desktop\PM\promul_entradas_cine\app\build\generated\res\pngs\debug
+com.example.promul_entradas_cine.app-resValues-28 C:\Users\Administrador\Desktop\PM\promul_entradas_cine\app\build\generated\res\resValues\debug
+com.example.promul_entradas_cine.app-packageDebugResources-29 C:\Users\Administrador\Desktop\PM\promul_entradas_cine\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.promul_entradas_cine.app-packageDebugResources-30 C:\Users\Administrador\Desktop\PM\promul_entradas_cine\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.promul_entradas_cine.app-merged_res-31 C:\Users\Administrador\Desktop\PM\promul_entradas_cine\app\build\intermediates\merged_res\debug
+com.example.promul_entradas_cine.app-debug-32 C:\Users\Administrador\Desktop\PM\promul_entradas_cine\app\src\debug\res
+com.example.promul_entradas_cine.app-main-33 C:\Users\Administrador\Desktop\PM\promul_entradas_cine\app\src\main\res

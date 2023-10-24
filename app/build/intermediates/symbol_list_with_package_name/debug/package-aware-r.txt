@@ -3142,6 +3142,7 @@ id bounceBoth
 id bounceEnd
 id bounceStart
 id bt_ir_pago
+id bt_pagar_total
 id buttonPanel
 id cache_measures
 id callMeasure
@@ -3159,6 +3160,7 @@ id checkbox
 id checked
 id chronometer
 id circle_center
+id ck_condiciones
 id clear_text
 id clip_horizontal
 id clip_vertical
@@ -3526,10 +3528,16 @@ id transition_position
 id transition_scene_layoutid_cache
 id transition_transform
 id triangle
+id txt_cantidad
 id txt_item1
+id txt_precio_entrada
 id txt_tipo
+id txt_titulo_cantidad
 id txt_titulo_pago
+id txt_titulo_precio_entrada
 id txt_titulo_tipo
+id txt_titulo_total_pagarxtView6
+id txt_total_pagar
 id unchecked
 id uniform
 id unlabeled

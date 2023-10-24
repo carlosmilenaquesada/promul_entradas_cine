@@ -1,7 +1,7 @@
-#Sun Oct 22 13:33:15 CEST 2023
-base.0=C\:\\Users\\Administrador\\Desktop\\PM\\FormularioCine\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
-base.1=C\:\\Users\\Administrador\\Desktop\\PM\\FormularioCine\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
-base.2=C\:\\Users\\Administrador\\Desktop\\PM\\FormularioCine\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\11\\classes.dex
+#Tue Oct 24 18:07:43 CEST 2023
+base.0=C\:\\Users\\Administrador\\Desktop\\PM\\promul_entradas_cine\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
+base.1=C\:\\Users\\Administrador\\Desktop\\PM\\promul_entradas_cine\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
+base.2=C\:\\Users\\Administrador\\Desktop\\PM\\promul_entradas_cine\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\11\\classes.dex
 path.0=classes.dex
 path.1=0/classes.dex
 path.2=11/classes.dex
